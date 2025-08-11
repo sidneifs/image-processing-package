@@ -1,3 +1,5 @@
+#Realização de um pacote Python para processamento de imagens
+# Este pacote inclui funcionalidades para combinação, transformação, leitura, salvamento e visualização de imagens
 
 from setuptools import setup, find_packages
 
