@@ -11,7 +11,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="image-processing-package-sidneifs",
-    version="0.0.3",
+    version="0.0.4",
     author="Sidnei Silva",
     author_email="sidneifs@gmail.com",
     description="Pacote Python para processamento de imagens: combinação, transformação, leitura, salvamento e visualização.",
