@@ -1,11 +1,11 @@
 Metadata-Version: 2.4
 Name: image-processing-package-sidneifs
-Version: 0.0.2
+Version: 0.0.3
 Summary: Pacote Python para processamento de imagens: combinação, transformação, leitura, salvamento e visualização.
 Home-page: https://github.com/sidneifs/image-processing-package
 Author: Sidnei Silva
 Author-email: sidneifs@gmail.com
-Requires-Python: >=3.8
+Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 Dynamic: author
 Dynamic: author-email
