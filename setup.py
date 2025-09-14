@@ -10,8 +10,8 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image-processing-package",
-    version="0.0.1",
+    name="image-processing-package-sidneifs",
+    version="0.0.3",
     author="Sidnei Silva",
     author_email="sidneifs@gmail.com",
     description="Pacote Python para processamento de imagens: combinação, transformação, leitura, salvamento e visualização.",
@@ -20,5 +20,5 @@ setup(
     url="https://github.com/sidneifs/image-processing-package",
     packages=find_packages(),
     install_requires=requirements,
-    python_requires='>=3.8',
+    python_requires='>=3.7',
 )
