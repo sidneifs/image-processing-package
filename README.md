@@ -85,7 +85,7 @@ Baixe as imagens desejadas, salve como `natureza1.png` e `natureza2.png` na past
 
 ## Autor
 
-Sidnei Silva ([GitHub](https://github.com/sidneifs))
+Sidnei Silva ([GitHub](https://github.com/sidneifs)).
 
 ## Licença
 
